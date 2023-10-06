@@ -7,7 +7,7 @@ Here is the workshop recording - [French](https://drive.google.com/file/d/1pINEM
 You need to create a Redis Enterprise DB with `RedisJSON` and `RediSearch` modules. Use the public endpoint in the notebooks.
 <img alt="Capture d’écran 2023-10-06 à 15 59 35" src="https://github.com/aelkouhen/redis-vss/assets/22400454/7c34580a-a200-4f28-89d1-4b1d77d4554e">
 
-## Demo 1: Text Vector Search [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/aelkouhen/redis-vss/blob/main/1-%20Text%20Vector%20Search.ipynb) 
+## Demo 1: Text Vector Search [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aelkouhen/redis-vss/blob/main/1-%20Text%20Vector%20Search.ipynb) 
 
 In this demo, you will learn how to:
 - Create vector embeddings for text,
@@ -17,7 +17,7 @@ In this demo, you will learn how to:
 
 ![image](https://github.com/aelkouhen/redis-vss/assets/22400454/58b95c48-8bb5-4a27-aaf4-4b104149379e)
 
-## Demo 2: Visual Vector Search [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/aelkouhen/redis-vss/blob/main/2-%20Visual%20Vector%20Search.ipynb) 
+## Demo 2: Visual Vector Search [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aelkouhen/redis-vss/blob/main/2-%20Visual%20Vector%20Search.ipynb) 
 
 In this second demo, you will learn how to:
 - Create vector embeddings for products (by image),
@@ -27,7 +27,7 @@ In this second demo, you will learn how to:
 
 ![ezgif-2-9f2d8adeb3](https://github.com/aelkouhen/redis-vss/assets/22400454/b939748b-6b8d-4af7-8ef3-fd3fbd8da86a)
 
-## Demo 2bis: Hybrid Vector Search [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/aelkouhen/redis-vss/blob/main/2bis-%20Hybrid%20Search.ipynb)
+## Demo 2bis: Hybrid Vector Search [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aelkouhen/redis-vss/blob/main/2bis-%20Hybrid%20Search.ipynb)
 
 In this demo, you will learn how to:
 - Create vector embeddings for products (by image),
@@ -38,7 +38,7 @@ In this demo, you will learn how to:
 
 ![image](https://github.com/aelkouhen/redis-vss/assets/22400454/b4ec3ce7-2f24-4f9a-956f-da8d251bc518)
 
-## Demo 3: Semantic Search [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/aelkouhen/redis-vss/blob/main/3-%20Semantic%20Vector%20Search.ipynb)
+## Demo 3: Semantic Search [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aelkouhen/redis-vss/blob/main/3-%20Semantic%20Vector%20Search.ipynb)
 
 In this demo, you will learn how to:
 - Create vector embeddings for a private knowledge base (e.g., White papers, blog posts, newsletters...),
@@ -49,7 +49,7 @@ In this demo, you will learn how to:
 
 ![image](https://github.com/aelkouhen/redis-vss/assets/22400454/14e1c0f6-f414-4c4e-9cbe-4b2c3ed4a021)
 
-## Demo 4: Retieval-Augmented Generation (RAG) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://](https://colab.research.google.com/github/aelkouhen/redis-vss/blob/main/4-%20Retrieval-Augmented%20Generation%20(RAG).ipynb)
+## Demo 4: Retieval-Augmented Generation (RAG) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aelkouhen/redis-vss/blob/main/4-%20Retrieval-Augmented%20Generation%20(RAG).ipynb)
 
 In this last demo, you will learn how to:
 - Create vector embeddings for a private knowledge base (e.g., PDF files, blogs posts, Database),
