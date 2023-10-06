@@ -1,4 +1,4 @@
-![image](https://github.com/aelkouhen/redis-vss/assets/22400454/c85f9d25-2a9f-48ae-bff8-b0dae71cac95)# Rediscover Redis for Vector Similarity Search
+# Rediscover Redis for Vector Similarity Search
 Redis Vector Similarity Search Workshop Materials.
 
 Here is the workshop slides [deck](https://docs.google.com/presentation/d/1-81YCn6ORjXM9HEbLLez9I-8s6DCVq28/edit?usp=sharing&ouid=102681544119043724410&rtpof=true&sd=true).
