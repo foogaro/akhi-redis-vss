@@ -14,12 +14,12 @@ Here is the workshop slides [deck](https://docs.google.com/presentation/d/1-81YC
 
 ## Table of Contents
 
-* [Pre-requisites](##Pre-requisites)
-* [Text Vector Search](##demo-1-text-vector-search-)
-* [Visual Vector Search](##Demo 2: Visual Vector Search)
-* [Hybrid Search](##Demo 2bis: Hybrid Vector Search)
-* [Semantic Search](##Demo 3: Semantic Search)
-* [Retieval-Augmented Generation](##Demo 4: Retieval-Augmented Generation (RAG))
+* [Pre-requisites](#Pre-requisites)
+* [Text Vector Search](#demo-1-text-vector-search-)
+* [Visual Vector Search](#demo-2-visual-vector-search-)
+* [Hybrid Search](#demo-2bis-hybrid-search-)
+* [Semantic Search](#demo-3-semantic-search-)
+* [Retieval-Augmented Generation](#demo-4-retrieval-augmented-generation-)
 
 ## Pre-requisites
 You need to create a Redis Enterprise DB with `RedisJSON` and `RediSearch` modules. Then, Use the public endpoint in the notebooks.
