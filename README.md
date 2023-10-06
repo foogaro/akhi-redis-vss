@@ -7,8 +7,8 @@ Here is the workshop slides [deck](https://docs.google.com/presentation/d/1-81YC
 
 <table>
     <tr>
-        <td><a href="https://drive.google.com/file/d/1pINEMJ_WFa5gusTl4oqtDLBGg3NbTuZ7"><img src="https://github.com/aelkouhen/redis-vss/assets/22400454/d38b67ec-2574-4e8a-a89c-6954b8b6f064" style="float: right;" width="500"/></a> French </td> 
-        <td><a href=""><img src="https://github.com/aelkouhen/redis-vss/assets/22400454/d38b67ec-2574-4e8a-a89c-6954b8b6f064" style="float: right;" width="500"/></a> English (Coming soon) </td> 
+        <td><a href="https://drive.google.com/file/d/1pINEMJ_WFa5gusTl4oqtDLBGg3NbTuZ7"><img src="https://github.com/aelkouhen/redis-vss/assets/22400454/d38b67ec-2574-4e8a-a89c-6954b8b6f064" style="float: right;" width="500" height="200"/></a> French </td> 
+        <td><img src="https://github.com/aelkouhen/redis-vss/assets/22400454/d38b67ec-2574-4e8a-a89c-6954b8b6f064" style="float: right;" width="500" height="200"/></a> English (Coming soon) </td> 
     </tr>
 </table>
 
