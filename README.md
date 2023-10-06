@@ -1,10 +1,15 @@
 # Rediscover Redis for Vector Similarity Search
 Redis Vector Similarity Search Workshop Materials.
+
 Here is the workshop slides [deck](https://docs.google.com/presentation/d/1-81YCn6ORjXM9HEbLLez9I-8s6DCVq28/edit?usp=sharing&ouid=102681544119043724410&rtpof=true&sd=true).
-Here is the workshop recording - [French](https://drive.google.com/file/d/1pINEMJ_WFa5gusTl4oqtDLBGg3NbTuZ7/view?usp=drive_link), English (Soon)
+
+Here is the workshop recording - [French](https://drive.google.com/file/d/1pINEMJ_WFa5gusTl4oqtDLBGg3NbTuZ7/view?usp=drive_link), English (Coming soon)
 
 ## Pre-requisites
-You need to create a Redis Enterprise DB with `RedisJSON` and `RediSearch` modules. Use the public endpoint in the notebooks.
+You need to create a Redis Enterprise DB with `RedisJSON` and `RediSearch` modules. Then, Use the public endpoint in the notebooks.
+
+To create a Redis Enterprise database, you can use [Redis Cloud](https://app.redislabs.com/) or you can provision a cluster in your own infrastructure using [TerrAmine](https://github.com/amineelkouhen/terramine).
+
 <img alt="Capture d’écran 2023-10-06 à 15 59 35" src="https://github.com/aelkouhen/redis-vss/assets/22400454/7c34580a-a200-4f28-89d1-4b1d77d4554e">
 
 ## Demo 1: Text Vector Search [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aelkouhen/redis-vss/blob/main/1-%20Text%20Vector%20Search.ipynb) 
