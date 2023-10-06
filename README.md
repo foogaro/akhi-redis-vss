@@ -7,8 +7,8 @@ Here is the workshop slides [deck](https://docs.google.com/presentation/d/1-81YC
 
 <table>
     <tr>
-        <td><a href="https://drive.google.com/file/d/1pINEMJ_WFa5gusTl4oqtDLBGg3NbTuZ7"><img src="https://github.com/aelkouhen/redis-vss/assets/22400454/d38b67ec-2574-4e8a-a89c-6954b8b6f064" style="float: right;" width="500" height="200"/></a> French </td> 
-        <td><a href=""><img src="https://github.com/aelkouhen/redis-vss/assets/22400454/d38b67ec-2574-4e8a-a89c-6954b8b6f064" style="float: right;" width="500" height="200"/></a> English (Coming soon) </td> 
+        <td><a href="https://drive.google.com/file/d/1pINEMJ_WFa5gusTl4oqtDLBGg3NbTuZ7"><img src="https://github.com/aelkouhen/redis-vss/assets/22400454/d38b67ec-2574-4e8a-a89c-6954b8b6f064" style="float: right;" width="500"/></a> French </td> 
+        <td><a href=""><img src="https://github.com/aelkouhen/redis-vss/assets/22400454/d38b67ec-2574-4e8a-a89c-6954b8b6f064" style="float: right;" width="500"/></a> English (Coming soon) </td> 
     </tr>
 </table>
 
@@ -83,7 +83,4 @@ In this last demo, you will learn how to:
 - Use Redis as a semantic cache,
 - Use Redis as Q/A history.
 
-![image](https://github.com/aelkouhen/redis-vss/assets/22400454/1705f88a-ab4c-45a1-9246-170b20e687dd)
-
-
-
+![image](https://github.com/aelkouhen/redis-vss/assets/22400454/90897bc8-66f6-429d-8ad8-b2a8841e09ee)
