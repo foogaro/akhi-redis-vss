@@ -5,8 +5,8 @@ Redis Vector Similarity Search Workshop Materials.
 
 <table>
     <tr>
-        <td><a href="https://drive.google.com/file/d/1pINEMJ_WFa5gusTl4oqtDLBGg3NbTuZ7"><img src="https://github.com/aelkouhen/redis-vss/assets/22400454/d38b67ec-2574-4e8a-a89c-6954b8b6f064" style="float: right;" width="500" height="200"/></a> Video Tutorial </td> 
-        <td width="50%"><a href="https://docs.google.com/presentation/d/1-81YCn6ORjXM9HEbLLez9I-8s6DCVq28"><img src="https://github.com/aelkouhen/redis-vss/assets/22400454/f3a46663-b16c-40f8-bf1d-afa2dab6e2de" style="float: right;" width="500" height="200"/></a> Slides Deck </td> 
+        <td><a href="https://drive.google.com/file/d/1pINEMJ_WFa5gusTl4oqtDLBGg3NbTuZ7"><img src="images/Vid.png" style="float: right;" width="500" height="200"/></a> Video Tutorial </td> 
+        <td width="50%"><a href="https://docs.google.com/presentation/d/1-81YCn6ORjXM9HEbLLez9I-8s6DCVq28"><img src="images/Deck.png" style="float: right;" width="500" height="200"/></a> Slides Deck </td> 
     </tr>
 </table>
 
