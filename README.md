@@ -7,7 +7,7 @@ Here is the workshop slides [deck](https://docs.google.com/presentation/d/1-81YC
 
 <table>
     <tr>
-        <td><a href="https://drive.google.com/file/d/1pINEMJ_WFa5gusTl4oqtDLBGg3NbTuZ7/view?usp=sharing"><img src="https://github.com/aelkouhen/redis-vss/assets/22400454/d38b67ec-2574-4e8a-a89c-6954b8b6f064" style="float: right;" width="500" height="200"/></a> French </td> 
+        <td><a href="https://drive.google.com/file/d/1pINEMJ_WFa5gusTl4oqtDLBGg3NbTuZ7"><img src="https://github.com/aelkouhen/redis-vss/assets/22400454/d38b67ec-2574-4e8a-a89c-6954b8b6f064" style="float: right;" width="500" height="200"/></a> French </td> 
         <td><a href=""><img src="https://github.com/aelkouhen/redis-vss/assets/22400454/d38b67ec-2574-4e8a-a89c-6954b8b6f064" style="float: right;" width="500" height="200"/></a> English (Coming soon) </td> 
     </tr>
 </table>
@@ -19,7 +19,7 @@ Here is the workshop slides [deck](https://docs.google.com/presentation/d/1-81YC
 * [Visual Vector Search](#demo-2-visual-vector-search-)
 * [Hybrid Search](#demo-2bis-hybrid-search-)
 * [Semantic Search](#demo-3-semantic-search-)
-* [Retieval-Augmented Generation](#demo-4-retrieval-augmented-generation-)
+* [Retieval-Augmented Generation](#demo-4-retieval-augmented-generation-rag-)
 
 ## Pre-requisites
 You need to create a Redis Enterprise DB with `RedisJSON` and `RediSearch` modules. Then, Use the public endpoint in the notebooks.
