@@ -49,7 +49,7 @@ In this demo, you will learn how to:
 
 ![image](https://github.com/aelkouhen/redis-vss/assets/22400454/14e1c0f6-f414-4c4e-9cbe-4b2c3ed4a021)
 
-## Demo 4: Retieval-Augmented Generation (RAG) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/aelkouhen/redis-vss/blob/main/4-%20Retrieval-Augmented%20Generation%20(RAG).ipynb)
+## Demo 4: Retieval-Augmented Generation (RAG) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://](https://colab.research.google.com/github/aelkouhen/redis-vss/blob/main/4-%20Retrieval-Augmented%20Generation%20(RAG).ipynb)
 
 In this last demo, you will learn how to:
 - Create vector embeddings for a private knowledge base (e.g., PDF files, blogs posts, Database),
