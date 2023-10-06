@@ -1,9 +1,27 @@
-# Rediscover Redis for Vector Similarity Search
+![image](https://github.com/aelkouhen/redis-vss/assets/22400454/c85f9d25-2a9f-48ae-bff8-b0dae71cac95)# Rediscover Redis for Vector Similarity Search
 Redis Vector Similarity Search Workshop Materials.
 
 Here is the workshop slides [deck](https://docs.google.com/presentation/d/1-81YCn6ORjXM9HEbLLez9I-8s6DCVq28/edit?usp=sharing&ouid=102681544119043724410&rtpof=true&sd=true).
 
-Here is the workshop recording - [French](https://drive.google.com/file/d/1pINEMJ_WFa5gusTl4oqtDLBGg3NbTuZ7/view?usp=drive_link), English (Coming soon)
+## Video Tutorials
+
+<table>
+    <tr>
+        French
+        <td><a href="https://drive.google.com/file/d/1pINEMJ_WFa5gusTl4oqtDLBGg3NbTuZ7/view?usp=sharing"><img src="https://github.com/aelkouhen/redis-vss/assets/22400454/d38b67ec-2574-4e8a-a89c-6954b8b6f064" style="float: right;" width="500" height="200"/></a></td> 
+        English (Coming soon) 
+        <td><a href=""><img src="https://github.com/aelkouhen/redis-vss/assets/22400454/d38b67ec-2574-4e8a-a89c-6954b8b6f064" style="float: right;" width="500" height="200"/></a></td> 
+    </tr>
+</table>
+
+## Table of Contents
+
+* [Pre-requisites](##Pre-requisites)
+* [Text Vector Search](##Demo 1: Text Vector Search)
+* [Visual Vector Search](##Demo 2: Visual Vector Search)
+* [Hybrid Search](##Demo 2bis: Hybrid Vector Search)
+* [Semantic Search](##Demo 3: Semantic Search)
+* [Retieval-Augmented Generation](##Demo 4: Retieval-Augmented Generation (RAG))
 
 ## Pre-requisites
 You need to create a Redis Enterprise DB with `RedisJSON` and `RediSearch` modules. Then, Use the public endpoint in the notebooks.
@@ -32,7 +50,7 @@ In this second demo, you will learn how to:
 
 ![ezgif-2-9f2d8adeb3](https://github.com/aelkouhen/redis-vss/assets/22400454/b939748b-6b8d-4af7-8ef3-fd3fbd8da86a)
 
-## Demo 2bis: Hybrid Vector Search [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aelkouhen/redis-vss/blob/main/2bis-%20Hybrid%20Search.ipynb)
+## Demo 2bis: Hybrid Search [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aelkouhen/redis-vss/blob/main/2bis-%20Hybrid%20Search.ipynb)
 
 In this demo, you will learn how to:
 - Create vector embeddings for products (by image),
