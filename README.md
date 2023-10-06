@@ -5,7 +5,7 @@ Redis Vector Similarity Search Workshop Materials.
 
 <table>
     <tr>
-        <td><a href="https://drive.google.com/file/d/1pINEMJ_WFa5gusTl4oqtDLBGg3NbTuZ7"><img src="images/Vid.png" style="float: right;" width="500" height="200"/></a> Video Tutorial </td> 
+        <td><a href="https://drive.google.com/file/d/1pINEMJ_WFa5gusTl4oqtDLBGg3NbTuZ7"><img src="images/Vid.png" style="float: right;" width="500" height="200"/></a> Video Tutorial (FR) </td> 
         <td width="50%"><a href="https://docs.google.com/presentation/d/1-81YCn6ORjXM9HEbLLez9I-8s6DCVq28"><img src="images/Deck.png" style="float: right;" width="500" height="200"/></a> Slides Deck </td> 
     </tr>
 </table>
