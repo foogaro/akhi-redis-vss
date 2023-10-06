@@ -7,17 +7,15 @@ Here is the workshop slides [deck](https://docs.google.com/presentation/d/1-81YC
 
 <table>
     <tr>
-        French
-        <td><a href="https://drive.google.com/file/d/1pINEMJ_WFa5gusTl4oqtDLBGg3NbTuZ7/view?usp=sharing"><img src="https://github.com/aelkouhen/redis-vss/assets/22400454/d38b67ec-2574-4e8a-a89c-6954b8b6f064" style="float: right;" width="500" height="200"/></a></td> 
-        English (Coming soon) 
-        <td><a href=""><img src="https://github.com/aelkouhen/redis-vss/assets/22400454/d38b67ec-2574-4e8a-a89c-6954b8b6f064" style="float: right;" width="500" height="200"/></a></td> 
+        <td><a href="https://drive.google.com/file/d/1pINEMJ_WFa5gusTl4oqtDLBGg3NbTuZ7/view?usp=sharing"><img src="https://github.com/aelkouhen/redis-vss/assets/22400454/d38b67ec-2574-4e8a-a89c-6954b8b6f064" style="float: right;" width="500" height="200"/></a> French </td> 
+        <td><a href=""><img src="https://github.com/aelkouhen/redis-vss/assets/22400454/d38b67ec-2574-4e8a-a89c-6954b8b6f064" style="float: right;" width="500" height="200"/></a> English (Coming soon) </td> 
     </tr>
 </table>
 
 ## Table of Contents
 
 * [Pre-requisites](##Pre-requisites)
-* [Text Vector Search](##Demo 1: Text Vector Search)
+* [Text Vector Search](##demo-1-text-vector-search-)
 * [Visual Vector Search](##Demo 2: Visual Vector Search)
 * [Hybrid Search](##Demo 2bis: Hybrid Vector Search)
 * [Semantic Search](##Demo 3: Semantic Search)
