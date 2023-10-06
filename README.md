@@ -1,14 +1,12 @@
 # Rediscover Redis for Vector Similarity Search
 Redis Vector Similarity Search Workshop Materials.
 
-Here is the workshop slides [deck](https://docs.google.com/presentation/d/1-81YCn6ORjXM9HEbLLez9I-8s6DCVq28/edit?usp=sharing&ouid=102681544119043724410&rtpof=true&sd=true).
-
-## Video Tutorials
+## Shared Materials
 
 <table>
     <tr>
-        <td><a href="https://drive.google.com/file/d/1pINEMJ_WFa5gusTl4oqtDLBGg3NbTuZ7"><img src="https://github.com/aelkouhen/redis-vss/assets/22400454/d38b67ec-2574-4e8a-a89c-6954b8b6f064" width="500" height="200"/></a> French </td> 
-        <td><a href="https://docs.google.com/presentation/d/1-81YCn6ORjXM9HEbLLez9I-8s6DCVq28"><img src="https://github.com/aelkouhen/redis-vss/assets/22400454/f3a46663-b16c-40f8-bf1d-afa2dab6e2de" width="500" height="200"/></a> English (Coming soon) </td> 
+        <td><a href="https://drive.google.com/file/d/1pINEMJ_WFa5gusTl4oqtDLBGg3NbTuZ7"><img src="https://github.com/aelkouhen/redis-vss/assets/22400454/d38b67ec-2574-4e8a-a89c-6954b8b6f064" width="500" height="200"/></a> Video Tutorial </td> 
+        <td><a href="https://docs.google.com/presentation/d/1-81YCn6ORjXM9HEbLLez9I-8s6DCVq28"><img src="https://github.com/aelkouhen/redis-vss/assets/22400454/f3a46663-b16c-40f8-bf1d-afa2dab6e2de" width="500" height="200"/></a> Slides Deck </td> 
     </tr>
 </table>
 
