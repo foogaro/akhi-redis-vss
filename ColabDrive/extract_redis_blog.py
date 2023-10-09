@@ -10,12 +10,6 @@ from rich.table import Column
 from rich.progress import Progress, BarColumn, TextColumn
 
 
-def get_redis_uri():
-    parser = configparser.ConfigParser()
-    parser.read("drive/MyDrive/ColabDrive/config.ini")
-    return parser["RedisURI"]["uri"]
-
-
 def compare_timestamps(timestamp1, timestamp2):
     format_string = "%Y-%m-%dT%H:%M:%S%z"
     dt1 = datetime.strptime(timestamp1, format_string)
@@ -26,16 +20,16 @@ def compare_timestamps(timestamp1, timestamp2):
 
 def get_latest_timestamp():
     parser = configparser.ConfigParser()
-    parser.read("drive/MyDrive/ColabDrive/config.ini")
+    parser.read("config.ini")
     return parser["Blogs"]["lastmod"]
 
 
 def update_latest_timestamp(ts):
     parser = configparser.ConfigParser()
-    parser.read("drive/MyDrive/ColabDrive/config.ini")
+    parser.read("config.ini")
     parser.set("Blogs", "lastmod", ts)
 
-    with open("drive/MyDrive/ColabDrive/config.ini", "w") as configfile:
+    with open("config.ini", "w") as configfile:
         parser.write(configfile)
     print(f"Config file updated, last modified timestamp is now {ts}")
 
@@ -128,7 +122,7 @@ def get_blogs_text(blog_links):
         return all_posts
 
 
-def save_to_csv(all_blogs, excel=True, file_name="drive/MyDrive/ColabDrive/docs/csv/redis_blogs.csv"):
+def save_to_csv(all_blogs, excel=True, file_name="docs/csv/redis_blogs.csv"):
     def concatenate_and_reset_ids(df1, df2):
         # Concatenate the two dataframes
         combined_df = pd.concat([df1, df2], ignore_index=True)
@@ -150,9 +144,9 @@ def save_to_csv(all_blogs, excel=True, file_name="drive/MyDrive/ColabDrive/docs/
         existing_blogs_df = pd.DataFrame([],columns=['id','url','title','date','author','text'])
 
     blogs_df = concatenate_and_reset_ids(existing_blogs_df, new_blogs_df)
-    blogs_df.to_csv("drive/MyDrive/ColabDrive/docs/csv/redis_blogs.csv", index=False)
+    blogs_df.to_csv("docs/csv/redis_blogs.csv", index=False)
     if excel:
-        blogs_df.to_excel("drive/MyDrive/ColabDrive/docs/xls/redis_blogs.xlsx", index=False)
+        blogs_df.to_excel("docs/xls/redis_blogs.xlsx", index=False)
 
 
 def main():
